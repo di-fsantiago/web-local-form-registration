@@ -30,7 +30,7 @@ Cadastrar: Após preencher corretamente todos os campos (como utilizar o formato
 * Limpar: O botão de limpeza remove os dados digitados que ainda não foram salvos.
 * Excluir: É possível remover um registro salvo, o que apagará os dados da memória local.
 
-> Nota: Caso recarregue ou saia da página, as informações salvas no armazenamento local permanecerão visíveis, mas para registrar novos dados será necessário realizar um novo cadastro.
+> Nota: Caso recarregue ou saia da página, as informações salvas no armazenamento local não permanecerão visíveis, para realizar a visualização ou exclusão delas, será necessário realizar um novo cadastro.
 
 ## 05. Autor e Contato
 Diego Ferreira Santiago
